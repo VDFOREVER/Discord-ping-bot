@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "VehfKfBFcYnCMlzkFxGMeD3kcXSL5vwQQiGRKWzxgTKtzyl6H1ByYjxyqwXTSZmKv3AhTMyVkC4nZpBvcwrCtg==",
+  "success": true,
+  "projectFilePath": "/home/vdforever/Рабочий стол/pingbot/pingbot.csproj",
+  "expectedPackageFiles": [
+    "/home/vdforever/.nuget/packages/discord.net.core/3.3.2/discord.net.core.3.3.2.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/discord.net.rest/3.3.2/discord.net.rest.3.3.2.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/discord.net.websocket/3.3.2/discord.net.websocket.3.3.2.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.configuration/6.0.2-mauipre.1.22102.15/microsoft.extensions.configuration.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.2-mauipre.1.22102.15/microsoft.extensions.configuration.abstractions.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.2-mauipre.1.22102.15/microsoft.extensions.configuration.fileextensions.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.configuration.json/6.0.2-mauipre.1.22102.15/microsoft.extensions.configuration.json.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.2-mauipre.1.22102.15/microsoft.extensions.fileproviders.abstractions.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.2-mauipre.1.22102.15/microsoft.extensions.fileproviders.physical.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.2-mauipre.1.22102.15/microsoft.extensions.filesystemglobbing.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.extensions.primitives/6.0.2-mauipre.1.22102.15/microsoft.extensions.primitives.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/system.interactive.async/5.0.0/system.interactive.async.5.0.0.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/system.linq.async/5.0.0/system.linq.async.5.0.0.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.2-mauipre.1.22102.15/system.runtime.compilerservices.unsafe.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/system.text.encodings.web/6.0.2-mauipre.1.22102.15/system.text.encodings.web.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/system.text.json/6.0.2-mauipre.1.22102.15/system.text.json.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/vdforever/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
